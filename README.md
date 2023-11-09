@@ -7,3 +7,5 @@ nwolfe/monorepo release-1 1e0771b20b577415b80bd8b64216ec7bb391f781\n
 nwolfe/monorepo main 240aa4b8b6406ca127383c24529744bc57ad3ccc
 
 nwolfe/monorepo release-2 6d21c623104c2201b0eb162fa6a98efffd846726
+
+nwolfe/monorepo release-3 26c59a15f9f3e0462cbd351b9815bdd4f8bcc025
