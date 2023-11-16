@@ -1,4 +1,5 @@
 {
   "version": "5.1.2",
-  "foo": "foo"
+  "foo": "foo",
+  "pr4": 4
 }
